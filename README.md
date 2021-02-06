@@ -1,7 +1,10 @@
 ### Hello! My name is Miguel Torres.
 
+### IT Professional specializing in Web Development and Web Design
+
 Working with technology is something I've always enjoyed way back in High School. My eagerness to learn more about the different Programing languages and Trends in the IT field lead me to finding a career in this industry. Wanting to learn more I graduated with a Bachelor's in CIS in 2018. At the moment, I am currently working as a Web Developer in Higher education for JJC.
 
+<br />
 
 - 🌱 I’m currently learning: Drupal 8/9, Acquia Cloud IDE, Sharepoint Online, etc...
 
