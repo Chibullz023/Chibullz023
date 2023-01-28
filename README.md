@@ -6,7 +6,7 @@ Working with technology is something I've always enjoyed. After graduating from 
 
 <br />
 
-- 🌱 I’m currently learning: Drupal 8/9, Acquia Cloud IDE, Sharepoint Online, and most recently will be learning Workday etc...
+- 🌱 I’m currently learning: Drupal 9/10, Acquia Cloud IDE, Sharepoint Online, and most recently will be learning PowerApps and how to best implement them with a Website.
 
 - ⚡ Fun fact: In addition to tech news, I enjoy watching NFL, Basketball, Anime, and Documentaries (Mainly Animal Docs) in my spare time as well as video games!!!
 
