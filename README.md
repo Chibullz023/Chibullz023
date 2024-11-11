@@ -2,13 +2,13 @@
 
 ## IT Professional specializing in Web Development and Web Design
 
-Working with technology is something I've always enjoyed. After graduating from college with a Bachelor's in Computer Information Systems in 2018, my eagerness to learn more about the different Programing languages and Trends in the IT field lead me to finding a career in this industry. At the moment, I am currently working as a Web Developer in Higher education for JJC.
+Working with technology is something I've always enjoyed. After graduating from college with a Bachelor's in Computer Information Systems in 2018, my eagerness to learn more about the different Programing languages and Trends in the IT field lead me to finding a career in this industry. At the moment, I am currently working as a Web Developer in Higher education for Joliet Junior College.
 
 <br />
 
-- 🌱 I’m currently learning: Drupal 9/10, Acquia Cloud IDE, Sharepoint Online, and most recently will be learning PowerApps and how to best implement them with a Website.
+- 🌱 I’m currently learning: Drupal 11, Acquia Cloud IDE, Sharepoint Online, Microsoft 365 and PowerApps, learning to implement all these features with our Website.
 
-- ⚡ Fun fact: In addition to tech news, I enjoy watching NFL, Basketball, Anime, and Documentaries (Mainly Animal Docs) in my spare time as well as video games!!!
+- ⚡ Fun fact: In addition to tech news, I enjoy watching Sports, Anime, and Documentaries (Mainly Animal Docs) in my spare time as well as video games!!!
 
 <br />
 
