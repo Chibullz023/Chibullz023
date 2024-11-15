@@ -2,7 +2,8 @@
 
 ## IT Professional specializing in Web Development and Web Design
 
-Web Developer with advanced skills in HTML, CSS, JavaScript, as well as solid experience in Drupal, and Microsoft 365. Working with technology is something I've always enjoyed. After graduating from college with a Bachelor's in Computer Information Systems in 2018, my eagerness to learn more about the different Programing languages and Trends in the IT field lead me to finding a career in this industry. At the moment, I am currently working as a Web Developer in Higher education for Joliet Junior College.
+Web Developer with advanced skills in HTML, CSS, JavaScript, as well as solid experience in Drupal, and Microsoft 365. I have contributed to the success of projects by testing and implementing new features, improving functionality and maintainability. 
+I was involved in the migration of our Portal site from Sharepoint 2013 to Sharepoint Online. Migrating pages and in most cases building brand new sites for our stakeholders. I thrive in team environments and enjoy new challenges.
 
 <br />
 
