@@ -14,10 +14,8 @@ Working with technology is something I've always enjoyed. After graduating from 
 
 ### Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mtorres020/)
-[<img align="left" alt="chibullz023 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="chibullz023" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">][website]
 
 <br />
 
-[linkedin]: https://www.linkedin.com/in/mtorres020/
 [website]: https://chibullz023.github.io/modern_portfolio/index.html
