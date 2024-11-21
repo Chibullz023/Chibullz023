@@ -9,7 +9,7 @@ I was involved in the migration of our Portal site from Sharepoint 2013 to Share
 
 - 🌱 Currently Utilizing: Drupal 11, Acquia Cloud IDE, Sharepoint Online, Microsoft 365 and PowerApps. We Are using all these features for our External and Portal Websites.
 
-- ⚡ Fun fact: In addition to tech news, I enjoy watching Sports, Anime, and Documentaries in my spare time as well as video games!!!
+- ⚡ Fun fact: I enjoy watching Sports, Anime, and Documentaries, as well as video games in my spare time!!!
 
 <br />
 
