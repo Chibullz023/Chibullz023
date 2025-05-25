@@ -2,15 +2,14 @@
 
 ## IT Professional specializing in Web Development and Web Design
 
-Web Developer with advanced skills in HTML, CSS, JavaScript, as well as solid experience in Drupal, and Microsoft 365. I have contributed to the success of projects by testing and implementing new features, improving functionality and maintainability. 
-I was involved in the migration of our Portal site from Sharepoint 2013 to Sharepoint Online. Migrating pages and in most cases building brand new sites for our stakeholders. I thrive in team environments and enjoy new challenges.
+Experienced web developer with expertise in HTML, CSS, JavaScript, and a strong background in Drupal and Microsoft 365. Adept at testing, implementing new features, and enhancing functionality for improved maintainability. Successfully contributed to the migration of our Portal site from SharePoint 2013 to SharePoint Online, leading the process of transferring pages and developing new sites tailored to stakeholder needs. I am passionate about collaborating in team environments and tackling new challenges with a solutions-oriented mindset.
 
 <br />
 
 - 🌱 Currently Utilizing: Drupal 11, Acquia Cloud IDE, Sharepoint Online, Microsoft 365 and PowerApps.
 -   Help Maintain the External & Portal Sites for my current role.
 
-- ⚡ Fun fact: I enjoy watching Sports, Documentaries, and playing video games in my spare time!!!
+- ⚡ Fun fact: I enjoy watching Sports, Documentaries, and video games in my spare time!!!
 
 <br />
 
